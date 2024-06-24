@@ -30,6 +30,6 @@ https://learn.unity.com/project/create-a-marker-based-ar-app?language=en
 <BR> </BR>
 **3. 메테퀘스트2 환경 구축 진행 중 🏃🏻‍♂️‍➡️**
  
-프로젝트와는 별개로 VR 학습 기록은 아래 레포지토리에서 진행되고 있습니다. 
+프로젝트와는 별개로 VR 학습 기록은 아래 레포지토리에서 진행하고 있습니다. 
 https://github.com/hemil0102/metaquest
 <BR> </BR>
