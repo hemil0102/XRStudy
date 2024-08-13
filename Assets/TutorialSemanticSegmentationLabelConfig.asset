@@ -12,29 +12,5 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: a9d0176327854820ab53adc46cbec7c1, type: 3}
   m_Name: TutorialSemanticSegmentationLabelConfig
   m_EditorClassIdentifier: 
-  m_LabelEntries:
-  - label: drink_whippingcream_lucerne
-    color: {r: 0, g: 0, b: 1, a: 1}
-  - label: lotion_essentially_nivea
-    color: {r: 0, g: 1, b: 0, a: 1}
-  - label: craft_yarn_caron_01
-    color: {r: 1, g: 0, b: 0, a: 1}
-  - label: cereal_cheerios_honeynut
-    color: {r: 1, g: 1, b: 1, a: 1}
-  - label: candy_minipralines_lindt
-    color: {r: 1, g: 0.92156863, b: 0.015686275, a: 1}
-  - label: pasta_lasagne_barilla
-    color: {r: 0.5, g: 0.5, b: 0.5, a: 1}
-  - label: drink_greentea_itoen
-    color: {r: 1, g: 0.756462, b: 0.22293806, a: 1}
-  - label: snack_granolabar_naturevalley
-    color: {r: 0.08414096, g: 0.7819033, b: 1, a: 1}
-  - label: snack_biscotti_ghiott_01
-    color: {r: 1, g: 0.97562873, b: 0.036633015, a: 1}
-  - label: Character
-    color: {r: 0.010637462, g: 0.12207115, b: 1, a: 1}
-  - label: cleaning_snuggle_henkel
-    color: {r: 1, g: 0.008211017, b: 0.21308832, a: 1}
-  - label: snack_biscotti_ghiott
-    color: {r: 1, g: 0.75111234, b: 0.4962687, a: 1}
+  m_LabelEntries: []
   skyColor: {r: 0, g: 0, b: 0, a: 1}
